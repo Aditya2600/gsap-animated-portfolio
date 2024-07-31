@@ -10,7 +10,6 @@ This is a personal portfolio website for Francesco Gioia, showcasing a modern an
 - [Setup](#setup)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Introduction
 
